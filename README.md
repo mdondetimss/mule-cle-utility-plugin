@@ -388,7 +388,5 @@ Sample end to end success log:
 }
 
 
-**© 2022 Miracle Software Systems, Inc.**
 
-**www.miraclesoft.com**
 ![](Aspose.Words.0efd08b8-3f5c-4d8f-8392-3883cb5feb83.007.png)![](Aspose.Words.0efd08b8-3f5c-4d8f-8392-3883cb5feb83.008.png)![](Aspose.Words.0efd08b8-3f5c-4d8f-8392-3883cb5feb83.009.png)![](Aspose.Words.0efd08b8-3f5c-4d8f-8392-3883cb5feb83.010.png)
