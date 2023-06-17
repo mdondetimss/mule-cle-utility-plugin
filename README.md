@@ -33,11 +33,11 @@
 **Version - 1.0**
 ![](Aspose.Words.0efd08b8-3f5c-4d8f-8392-3883cb5feb83.004.png)
 
-**Naresh Vadde**
+**Mahesh Dondeti**
 
 **Sr Mulesoft Developer**
 
-**Miracle Software Systems, Inc.**
+
 
 ![](Aspose.Words.0efd08b8-3f5c-4d8f-8392-3883cb5feb83.005.png)
 
